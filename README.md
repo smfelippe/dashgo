@@ -1,1 +1,1 @@
-Para utilização do dashboard é necessário utilizar também o repositório auth-backend para login.
+Para utilização do dashboard é necessário clonar também o repositório backend-login para login.
